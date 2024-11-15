@@ -61,8 +61,6 @@ import ListNav from './ListNav.vue';
     left: 60%;
 }
 
-
-
 @media(min-width: 1000px) {
     #list_full {
         display: none;
