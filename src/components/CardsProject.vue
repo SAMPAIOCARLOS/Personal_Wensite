@@ -12,7 +12,7 @@ export default {
                       title: 'Personal WebSite',
                        text: 'Este projeto é um portfólio pessoal interativo desenvolvido com Vue.js. ',
                         data_Icon: [
-                            { name_icon: '/src/assets/images/vue.png', name_tech: 'VUE', color: '#42B883' },
+                            { name_icon: '/assets/images/vue.png', name_tech: 'VUE', color: '#42B883' },
                             { name_icon: '/src/assets/images/typescript.png', name_tech: 'TYPESCRIPT', color: '#C53635' },
                             { name_icon: '/src/assets/images/npm.png', name_tech: 'NPM', color: '#C53635' }
                         ],
